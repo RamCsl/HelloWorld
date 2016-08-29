@@ -3,8 +3,6 @@ package main
 import (
 	"errors"
 	"fmt"
-
-	"github.com/RamCsl/HelloWorld"
 )
 
 // SimpleChaincode example simple Chaincode implementation
