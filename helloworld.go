@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/RamCsl/HelloWorld/tree/BlockchainApp"
+	"github.com/RamCsl/HelloWorld"
 )
 
 // SimpleChaincode example simple Chaincode implementation
