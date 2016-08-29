@@ -17,7 +17,7 @@ func main() {
 	}
 }
 
-func (t *SimpleChaincode) Init(stub *shim.ChaincodeStub, function string, args []string) ([]byte, 
+func (t *SimpleChaincode) Init(function string, args []string) ([]byte, 
 
 error) {
     if len(args) != 1 {
